@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Space Sleeve</string>
+    <string name="hello_world">Hello World</string>
+    <string name="unlocked">Unlocked</string>
+    <string name="locked">Locked</string>
+    <string name="arm_left">Arm Left</string>
+    <string name="arm_right">Arm Right</string>
+    <string name="pose_fist">Pose Fist</string>
+    <string name="pose_wavein">Pose Wave In</string>
+    <string name="pose_waveout">Pose Wave Out</string>
+    <string name="pose_fingersspread">Pose Fingers Spread</string>
+</resources>
